@@ -1,0 +1,8 @@
+@font-face {
+  font-family: MAKBold;
+  src: url(./fonts/FontsFree-Net-MAK-bold.woff);
+}
+
+header .title {
+  font-family: MAKBold;
+}
